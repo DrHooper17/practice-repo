@@ -1,3 +1,4 @@
 # Header
 
-Practice git and github. Learn fundamentals fast.
+Practice git and github. 
+Learn fundamentals fast.

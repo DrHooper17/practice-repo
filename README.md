@@ -1,3 +1,3 @@
 # Header
 
-Practice git and github.
+Practice git and github. Learn fundamentals fast.
